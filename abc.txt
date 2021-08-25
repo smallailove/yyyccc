@@ -1,2 +1,5 @@
 abc
+<<<<<<< HEAD
 master: update
+tech: update
+>>>>>>> tech
